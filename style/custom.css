@@ -1,0 +1,78 @@
+#body{
+    min-height: 100px;
+}
+
+
+#sobre, #produtos {
+    padding: 1rem;
+
+}
+
+#produtos {
+    padding: 1rem;
+    text-decoration: upercasse;
+    
+    
+}
+
+section {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+
+input,
+textarea {
+    margin-bottom: 1rem;
+}
+
+.card{
+    width: 32%;
+    float: left;
+    margin: 5px;
+}
+
+.contato1 {
+    display: inline-table;
+}
+
+.mapa {
+    padding: 3em 0;
+    background: linear-gradient(#fefefe, #888888);
+    
+}
+.mapa, h3 {
+    margin: 0 0 2 em;
+    text-align: center;
+}
+.mapa-conteudo {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.principal p {
+    margin: 0 0 1em;   
+    text-align: center;  
+
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+
+}
+
+#carouselExampleDark{
+    width: 50%;
+    height: 10%;
+    margin: auto;
+    padding: 50px 100px 50px 100px;
+    position: relative;
+    max-width: 30%;
+}
+
+h5{
+    color: #fefefe;
+}
+
